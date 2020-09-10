@@ -2,6 +2,8 @@ package pl.ukf.gitdemo;
 
 /**
  * Witaj Świecie***
+ * 
+ * @author UKF  @since 2020.09.10
  *
  */
 public class App 
