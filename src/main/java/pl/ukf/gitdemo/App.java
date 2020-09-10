@@ -1,7 +1,7 @@
 package pl.ukf.gitdemo;
 
 /**
- * Hello world***
+ * Witaj Świecie***
  *
  */
 public class App 
